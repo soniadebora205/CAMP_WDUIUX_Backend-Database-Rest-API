@@ -6,6 +6,7 @@
 
 
 ## 📝 Intermezzo
+Di bawah ini merupakan tangkapan layar dari uji coba ke-5 routes API di POSTMAN.
 ## 1. Metode POST
    <img width="1920" height="1140" alt="POST" src="https://github.com/user-attachments/assets/0ee9b360-034a-4d56-8b88-910bff208aaf" />
 
